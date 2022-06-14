@@ -1,0 +1,37 @@
+--Code Hello World--
+Struktur code pada Python relatif sangat sederhana, tidak serumit seperti pada Java ataupun C. 
+Selain karena memang mudah dibaca, python juga termasuk pada high level programming language seperti yang telah dibahas sebelumnya.
+
+Untuk memulai belajar python, cobalah ketikkan kode berikut pada Code Editor : 
+ 
+  code editor:
+  print ("Hello World")
+ 
+  console : 
+  Hello World
+ 
+Coba lanjutkan code tersebut pada baris selanjutnya dengan menggunakan kode ini :
+  
+  code editor:
+  print ("Hello World")
+  print (8+2)
+
+  console :
+  Hello World
+  10
+
+Note : setiap perintah print yang digunakan akan mencetak baris baru.
+Memang terlihat sangat sederhana jika hanya untuk kasus simpel yang kita pelajari pada bagin ini. Namun, python tidak sesederhana itu dalam prakteknya. 
+Biasanya kita juga menggunakan import library khusus jika sudah menyangkut masalah yang lebih kompleks.
+
+Exercise :
+1. Tampilkan hasil perhitungan (20*2+2) pada baris pertama.
+2. Tampilkan teks "Belajar Python" pada baris kedua.
+
+code editor :
+print(20*2+2)
+print("Belajar Python")
+
+console :
+42
+Belajar Python
