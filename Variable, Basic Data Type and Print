@@ -1,0 +1,33 @@
+--Variable, Basic Data Type and Print--
+
+Penggunaan variabel atau suatu objek yang bisa merepresentasikan sebuah nilai atau value sangat penting dalam bahasa pemrograman. 
+Selain itu mempermudah dalam membaca source code, pemberian variable yang efisien juga akan membuat code berjalan optimal dan dinamis. 
+Pada sesi kali ini kita akan belajar bagaimana cara inisialisasi variable dalam beberapa data type dan menampilkannya (print).
+
+Tipe Data   : Boolean
+Contoh      : True atau False
+Penjelasan  : Menyatakan benar True yang bernilai 1, atau salah False yang bernilai 0
+
+Tipe Data   : String
+Contoh      : "Ayo belajar Python"
+Penjelasan  : Menyatakan karakter/kalimat bisa berupa huruf angka, dll (diapit tanda " atau ')
+
+Tipe Data   : Integer
+Contoh      : 25 atau 1209
+Penjelasan  : Menyatakan bilangan bulat
+
+Tipe Data   : Float
+Contoh      : 3.14 atau 0.99
+Penjelasan  : Menyatakan bilangan yang mempunyai koma
+
+Tipe Data   : List
+Contoh      : ['xyz', 786, 2.23]
+Penjelasan  : Data yang menyimpan berbagai tipe data dan isinya bisa diubah-ubah
+
+Tipe Data   : Tuple
+Contoh      : ('xyz', 768, 2.23)
+Penjelasan  : Data untaian yang menyimpan berbagai tipe data tapi isinya tidak bisa diubah
+
+Tipe Data   : Dictionary
+Contoh      : {'nama': 'adi','id':2}
+Penjelasan  : Data untaian yang menyimpan berbagai tipe data berupa pasangan penunjuk dan nilai
